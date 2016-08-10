@@ -1,9 +1,0 @@
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\bin\Debug\C16 Ex01 Yoni 301812095 Idan 301911103.exe
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\bin\Debug\C16 Ex01 Yoni 301812095 Idan 301911103.pdb
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\bin\Debug\Facebook.dll
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\bin\Debug\FbGraphApiWrapper.dll
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\obj\Debug\C16 Ex01 Yoni 301812095 Idan 301911103.csprojResolveAssemblyReference.cache
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\obj\Debug\C16_Ex01_Yoni_301812095_Idan_301911103.Properties.Resources.resources
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\obj\Debug\C16 Ex01 Yoni 301812095 Idan 301911103.csproj.GenerateResource.Cache
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\obj\Debug\C16 Ex01 Yoni 301812095 Idan 301911103.exe
-C:\Users\DEV\Desktop\Design patterns\C16 Ex01 YoniShtekel 301812095 IdanAsher 301911103\C16 Ex01 Yoni 301812095 Idan 301911103\obj\Debug\C16 Ex01 Yoni 301812095 Idan 301911103.pdb

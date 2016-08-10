@@ -63,7 +63,8 @@
     <Compile Include="FormLogin.Designer.cs">
       <DependentUpon>FormLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="LoggedInUserData.cs" />
+    <Compile Include="LoggedInUser.cs" />
+    <Compile Include="PostDataHolder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormFacebook.resx">
@@ -94,6 +95,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="content\FacebookLogoCover.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="content\tumblr-post-button.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

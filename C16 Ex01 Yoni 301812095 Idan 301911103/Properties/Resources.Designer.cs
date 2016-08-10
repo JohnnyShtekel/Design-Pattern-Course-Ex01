@@ -69,5 +69,15 @@ namespace C16_Ex01_Yoni_301812095_Idan_301911103.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tumblr_post_button {
+            get {
+                object obj = ResourceManager.GetObject("tumblr-post-button", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
